@@ -13,7 +13,6 @@ a {
 body {
    color: hsl(210, 10%, 33%);
    font-size: 18px;
-   font-weight: 400;
    font-family: 'Bai Jamjuree', sans-serif;
 }
 
@@ -29,7 +28,7 @@ header {
 
 span {
    color: hsl(201, 11%, 66%);
-   font-size: 18px;
+   font-weight: 400;
 }
 
 .intro {
@@ -40,6 +39,7 @@ span {
 
 h1, h2, h3 {
    padding: 1.5rem 0 .5rem;
+   font-weight: 600;
 }
 
 
